@@ -1,0 +1,6 @@
+Steps :
+load the csv in powerbi 
+transform to clean the data and processing 
+power bi kpi 
+create charts 
+export setting publish you can give access to other user so that user can change the dashboard 
